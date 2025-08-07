@@ -1,4 +1,5 @@
 a=11
 b=13
-z=a+b
+c=15
+z=a+b+c
 print(z)
